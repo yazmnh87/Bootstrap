@@ -40,3 +40,10 @@ background: #fff;
 padding: 5px;
 border-radius: 5px;
 }
+
+#explore-section .fas, #share-secetion .fas{
+    background: #333;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px
+}
